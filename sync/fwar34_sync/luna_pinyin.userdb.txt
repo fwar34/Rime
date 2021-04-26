@@ -1,0 +1,52 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin.userdb
+#@/db_type	userdb
+#@/rime_version	1.5.3
+#@/tick	50
+#@/user_id	fwar34_sync
+ba 	吧	c=1 d=0.937067 t=50
+ce shi 	測試	c=0 d=0.0900325 t=50
+ce shi xia 	測試下	c=4 d=3.88989 t=50
+chong xin 	重新	c=2 d=1.76969 t=50
+de 	的	c=1 d=0.918512 t=50
+en 	恩	c=1 d=0.946485 t=50
+fan ye 	翻頁	c=2 d=1.99005 t=50
+fang kuo hao 	方括號	c=1 d=1.09851 t=49
+gu ji 	估計	c=1 d=0.960789 t=50
+guan bi 	關閉	c=1 d=1 t=41
+hen hao de 	很好的	c=0 d=0.0822835 t=50
+huan hao 	換好	c=1 d=0.97531 t=50
+jian kai 	見開	c=1 d=0.847894 t=50
+jiu 	就	c=1 d=0.839457 t=50
+ke yi 	可以	c=1 d=0.985112 t=50
+le 	了	c=1 d=0.980199 t=50
+mei you 	沒有	c=1 d=0.965605 t=50
+na wo 	那我	c=1 d=0.941765 t=50
+ni 	你	c=2 d=1.76086 t=50
+ni hao ma 	你好嗎	c=3 d=2.48921 t=50
+pei zhi 	配置	c=1 d=0.873716 t=50
+qie huan 	切換	c=0 d=0.0839457 t=50
+qie huan shu ru fa 	切換輸入法	c=1 d=0.843665 t=50
+ri zhi 	日誌	c=2 d=1.75208 t=50
+ru hui 	入會	c=1 d=0.970446 t=50
+shi 	是	c=1 d=0.923116 t=50
+shu ru fa 	輸入法	c=1 d=1.04546 t=50
+te ding 	特定	c=1 d=1 t=44
+tian jia 	添加	c=1 d=0.967287 t=50
+wo 	我	c=0 d=0.167073 t=50
+wo gai 	我改	c=1 d=0.913931 t=50
+wo gai 	我該	c=1 d=0.909373 t=50
+wo hen hao de 	我很好的	c=1 d=0.826959 t=50
+wo tian jia 	我添加	c=1 d=0.852144 t=50
+wo yao 	我要	c=1 d=0.878095 t=50
+xia 	下	c=0 d=0.0900325 t=50
+xie 	些	c=2 d=1.74334 t=50
+xu ni 	虛擬	c=1 d=0.951229 t=50
+yi 	一	c=0 d=0.1 t=46
+yi fang kuo hao 	一方括號	c=1 d=1 t=47
+ying gai 	應該	c=1 d=0.927743 t=50
+ying yong 	應用	c=1 d=1 t=45
+zai 	在	c=1 d=0.932394 t=50
+zhong 	中	c=1 d=1 t=46
+zhong wen 	中文	c=1 d=1 t=42
+zhu chi ren 	主持人	c=1 d=0.955997 t=50
