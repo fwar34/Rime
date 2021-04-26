@@ -1,0 +1,5 @@
+2021/04/26-16:05:52.045000 22244 Table #67: 47 entries OK
+2021/04/26-16:05:52.047000 22244 Table #69: 6 entries OK
+2021/04/26-16:05:52.048000 22244 Table #75: 4 entries OK
+2021/04/26-16:05:52.048000 22244 Table #82: 39 entries OK
+2021/04/26-16:05:52.079000 22244 **** Repaired leveldb C:\Users\liang.feng\AppData\Roaming\Rime\luna_pinyin.userdb; recovered 4 files; 4068 bytes. Some data may have been lost. ****
