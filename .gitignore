@@ -1,5 +1,3 @@
 build/
-luna_pinyin.userdb/*.log
-luna_pinyin.userdb/LOG
-luna_pinyin.userdb/LOG.*
-luna_pinyin.userdb/MANIFEST*
+luna_pinyin.userdb/
+luna_pinyin.userdb.old/
