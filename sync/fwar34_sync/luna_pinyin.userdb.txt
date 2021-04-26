@@ -2,51 +2,79 @@
 #@/db_name	luna_pinyin.userdb
 #@/db_type	userdb
 #@/rime_version	1.5.3
-#@/tick	50
+#@/tick	101
 #@/user_id	fwar34_sync
-ba 	吧	c=1 d=0.937067 t=50
-ce shi 	測試	c=0 d=0.0900325 t=50
-ce shi xia 	測試下	c=4 d=3.88989 t=50
-chong xin 	重新	c=2 d=1.76969 t=50
-de 	的	c=1 d=0.918512 t=50
-en 	恩	c=1 d=0.946485 t=50
-fan ye 	翻頁	c=2 d=1.99005 t=50
-fang kuo hao 	方括號	c=1 d=1.09851 t=49
-gu ji 	估計	c=1 d=0.960789 t=50
-guan bi 	關閉	c=1 d=1 t=41
-hen hao de 	很好的	c=0 d=0.0822835 t=50
-huan hao 	換好	c=1 d=0.97531 t=50
-jian kai 	見開	c=1 d=0.847894 t=50
-jiu 	就	c=1 d=0.839457 t=50
-ke yi 	可以	c=1 d=0.985112 t=50
-le 	了	c=1 d=0.980199 t=50
-mei you 	沒有	c=1 d=0.965605 t=50
-na wo 	那我	c=1 d=0.941765 t=50
-ni 	你	c=2 d=1.76086 t=50
-ni hao ma 	你好嗎	c=3 d=2.48921 t=50
-pei zhi 	配置	c=1 d=0.873716 t=50
-qie huan 	切換	c=0 d=0.0839457 t=50
-qie huan shu ru fa 	切換輸入法	c=1 d=0.843665 t=50
-ri zhi 	日誌	c=2 d=1.75208 t=50
-ru hui 	入會	c=1 d=0.970446 t=50
-shi 	是	c=1 d=0.923116 t=50
-shu ru fa 	輸入法	c=1 d=1.04546 t=50
-te ding 	特定	c=1 d=1 t=44
-tian jia 	添加	c=1 d=0.967287 t=50
-wo 	我	c=0 d=0.167073 t=50
-wo gai 	我改	c=1 d=0.913931 t=50
-wo gai 	我該	c=1 d=0.909373 t=50
-wo hen hao de 	我很好的	c=1 d=0.826959 t=50
-wo tian jia 	我添加	c=1 d=0.852144 t=50
-wo yao 	我要	c=1 d=0.878095 t=50
-xia 	下	c=0 d=0.0900325 t=50
-xie 	些	c=2 d=1.74334 t=50
-xu ni 	虛擬	c=1 d=0.951229 t=50
-yi 	一	c=0 d=0.1 t=46
-yi fang kuo hao 	一方括號	c=1 d=1 t=47
-ying gai 	應該	c=1 d=0.927743 t=50
-ying yong 	應用	c=1 d=1 t=45
-zai 	在	c=1 d=0.932394 t=50
-zhong 	中	c=1 d=1 t=46
-zhong wen 	中文	c=1 d=1 t=42
-zhu chi ren 	主持人	c=1 d=0.955997 t=50
+ba 	吧	c=1 d=0.937067 t=101
+ce shi 	測試	c=0 d=0.0900325 t=101
+ce shi xia 	測試下	c=4 d=3.88989 t=101
+chong xin 	重新	c=2 d=1.76969 t=101
+dan shi 	但是	c=1 d=1 t=68
+de 	的	c=2 d=1.68708 t=101
+dian hua 	電話	c=2 d=1.91393 t=78
+en 	恩	c=1 d=0.946485 t=101
+fa xia 	發下	c=1 d=1 t=51
+fan ye 	翻頁	c=2 d=1.99005 t=101
+fang kuo hao 	方括號	c=1 d=1.09303 t=101
+gu ji 	估計	c=1 d=0.960789 t=101
+guan bi 	關閉	c=1 d=0.955997 t=101
+he he he 	呵呵呵	c=1 d=1 t=54
+hen chang 	很長	c=1 d=1 t=83
+hen hao de 	很好的	c=0 d=0.0822835 t=101
+hua le 	花了	c=1 d=1 t=90
+huan hao 	換好	c=1 d=0.97531 t=101
+jia ru 	加入	c=2 d=1.95123 t=75
+jian kai 	見開	c=1 d=0.847894 t=101
+jiu 	就	c=1 d=0.839457 t=101
+kai shi 	開始	c=1 d=1 t=63
+ke yi 	可以	c=1 d=0.985112 t=101
+lai le 	來了	c=1 d=1 t=57
+le 	了	c=1 d=0.980199 t=101
+mei you 	沒有	c=2 d=1.61328 t=101
+miao zhong 	秒鐘	c=1 d=1 t=91
+na wo 	那我	c=1 d=0.941765 t=101
+ni 	你	c=2 d=1.76086 t=101
+ni hao ma 	你好嗎	c=5 d=3.49826 t=101
+pei zhi 	配置	c=1 d=0.873716 t=101
+qie huan 	切換	c=0 d=0.0839457 t=101
+qie huan shu ru fa 	切換輸入法	c=1 d=0.843665 t=101
+ri zhi 	日誌	c=2 d=1.75208 t=101
+ru hui 	入會	c=1 d=0.970446 t=101
+shang ci 	上次	c=1 d=1 t=95
+shang xian 	上線	c=3 d=2.88391 t=89
+shi 	是	c=3 d=2.60869 t=101
+shi jian 	時間	c=1 d=1 t=82
+shu ru fa 	輸入法	c=1 d=1.04546 t=101
+su zhou 	蘇州	c=1 d=1 t=58
+ta men 	他們	c=1 d=1 t=56
+te ding 	特定	c=1 d=0.970446 t=101
+tian jia 	添加	c=1 d=0.967287 t=101
+tong zhi 	通知	c=2 d=1.95123 t=74
+wai hu 	外呼	c=1 d=1 t=80
+wai hu 	外戶	c=2 d=1.91393 t=79
+wen ti 	問題	c=1 d=1 t=99
+wo 	我	c=0 d=0.167073 t=101
+wo de 	我的	c=1 d=1 t=55
+wo gai 	我改	c=1 d=0.913931 t=101
+wo gai 	我該	c=1 d=0.909373 t=101
+wo hen hao de 	我很好的	c=1 d=0.826959 t=101
+wo tian jia 	我添加	c=1 d=0.852144 t=101
+wo yao 	我要	c=1 d=0.878095 t=101
+xia 	下	c=0 d=0.0900325 t=101
+xie 	些	c=2 d=1.74334 t=101
+xu ni 	虛擬	c=5 d=4.24362 t=101
+yi 	一	c=0 d=0.0980199 t=101
+yi 	翼	c=1 d=1 t=101
+yi fang kuo hao 	一方括號	c=1 d=0.985112 t=101
+yi ge 	一個	c=1 d=1 t=97
+yi jing 	已經	c=1 d=1 t=98
+yi zhi 	一直	c=1 d=1 t=71
+ying gai 	應該	c=3 d=2.60283 t=101
+ying yong 	應用	c=1 d=0.97531 t=101
+zai 	在	c=1 d=0.932394 t=101
+zhang 	張	c=1 d=1 t=100
+zhe ge 	這個	c=2 d=1.8825 t=84
+zhi hou 	之後	c=1 d=1 t=62
+zhong 	中	c=1 d=0.980199 t=101
+zhong wen 	中文	c=1 d=0.960789 t=101
+zhu chi ren 	主持人	c=5 d=4.26488 t=101
+zuo you 	左右	c=1 d=1 t=92
