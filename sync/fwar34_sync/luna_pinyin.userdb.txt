@@ -2,162 +2,301 @@
 #@/db_name	luna_pinyin.userdb
 #@/db_type	userdb
 #@/rime_version	1.5.3
-#@/tick	209
+#@/tick	550
 #@/user_id	fwar34_sync
-an zhuang 	安裝	c=1 d=1 t=157
-ba 	吧	c=2 d=1.50207 t=209
-bang 	幫	c=0 d=0.1 t=129
-bang fa xia 	幫發下	c=1 d=1 t=130
-bang mang 	幫忙	c=1 d=1 t=124
-bu dao 	不到	c=1 d=1 t=193
-bu qing chu 	不清楚	c=0 d=0.1 t=181
-ce shi 	測試	c=0 d=0.122935 t=209
-ce shi ge 	測試個	c=1 d=1 t=140
-ce shi xia 	測試下	c=4 d=3.88989 t=209
-cha bu dao 	查不到	c=1 d=1 t=204
-cheng xu 	程序	c=1 d=1 t=111
-chong xin 	重新	c=4 d=2.49554 t=209
-chuan 	串	c=0 d=0.1 t=126
-chuan guo lai 	傳過來	c=1 d=1 t=179
-chuang kou 	窗口	c=1 d=1 t=117
-da 	打	c=0 d=0.1 t=171
-da ri zhi 	打日誌	c=1 d=1 t=172
-dan shi 	但是	c=1 d=0.847894 t=209
-de 	的	c=5 d=3.36597 t=209
-deng xia 	燈下	c=0 d=0.199005 t=150
-di xia 	地下	c=0 d=0.1 t=205
-di xia 	底下	c=0 d=0.1 t=206
-dian hua 	電話	c=2 d=1.70601 t=209
-diao 	掉	c=0 d=0.1 t=125
-diao qi 	吊起	c=0 d=0.1 t=126
-diao qi chuan 	吊起串	c=3 d=2.34751 t=209
-diao qi chuan 	掉氣喘	c=1 d=1 t=126
-duo xie 	多謝	c=2 d=1.84789 t=161
-en 	恩	c=2 d=1.43848 t=209
-fa xia 	發下	c=2 d=1.17792 t=209
-fan ye 	翻頁	c=3 d=1.99005 t=209
-fang kuo hao 	方括號	c=1 d=1.09303 t=209
-ge 	個	c=1 d=1.09094 t=158
-gu ji 	估計	c=1 d=0.960789 t=209
-guan bi 	關閉	c=1 d=0.955997 t=209
-hai 	還	c=0 d=0.1 t=181
-hai bu qing chu 	還不清楚	c=2 d=1.99005 t=184
-hao 	好	c=1 d=1 t=135
-hao de 	好的	c=1 d=1 t=160
-hao xiang 	好像	c=1 d=1 t=177
-he he he 	呵呵呵	c=1 d=0.790571 t=209
-hen chang 	很長	c=1 d=0.913931 t=209
-hen hao de 	很好的	c=0 d=0.0822835 t=209
-hua le 	花了	c=1 d=0.946485 t=209
-huan hao 	換好	c=1 d=0.97531 t=209
-huan jing 	環境	c=1 d=1 t=199
-hui yi 	會議	c=4 d=3.53766 t=205
-jia ru 	加入	c=2 d=1.71337 t=209
-jian ge 	間隔	c=1 d=1 t=146
-jian kai 	見開	c=2 d=1.18831 t=209
-jian pan 	鍵盤	c=3 d=2.95551 t=112
-jiang 	將	c=1 d=1 t=116
-jin yong 	禁用	c=1 d=1 t=106
-jing yin 	靜音	c=1 d=1 t=143
-jiu 	就	c=1 d=0.839457 t=209
-jiu shi 	就是	c=1 d=1 t=198
-kai shi 	開始	c=1 d=0.826959 t=209
-kan 	看	c=1 d=1 t=175
-ke 	克	c=1 d=1 t=123
-ke yi 	可以	c=1 d=0.985112 t=209
-lai le 	來了	c=1 d=0.802519 t=209
-lai miao 	來秒	c=1 d=1 t=148
-le 	了	c=1 d=0.980199 t=209
-liang ci 	兩次	c=1 d=1 t=144
-liu ren 	劉仁	c=1 d=1 t=186
-ma 	嗎	c=2 d=1.90032 t=190
-me 	麼	c=1 d=1 t=173
-mei de 	沒得	c=1 d=1 t=134
-mei you 	沒有	c=3 d=1.79655 t=209
-miao zhong 	秒鐘	c=1 d=0.951229 t=209
-na wo 	那我	c=1 d=0.941765 t=209
-ni 	你	c=2 d=1.76086 t=209
-ni bang 	你幫	c=1 d=1 t=137
-ni hao ma 	你好嗎	c=5 d=3.49826 t=209
-pei zhi 	配置	c=1 d=0.873716 t=209
-qi chuan 	氣喘	c=0 d=0.1 t=125
-qie huan 	切換	c=0 d=0.0839457 t=209
-qie huan shu ru fa 	切換輸入法	c=1 d=0.843665 t=209
-quan ti 	全體	c=1 d=1 t=142
-ri 	日	c=1 d=1 t=202
-ri zhi 	日誌	c=4 d=2.77124 t=209
-ru hui 	入會	c=1 d=0.970446 t=209
-shang 	上	c=1 d=1 t=147
-shang ci 	上次	c=1 d=0.970446 t=209
-shang xian 	上線	c=3 d=2.71596 t=209
-shao 	少	c=0 d=0.1 t=150
-shao deng 	稍等	c=0 d=0.1 t=151
-shao deng xia 	少燈下	c=1 d=1 t=151
-shao deng xia 	稍等下	c=1 d=1 t=152
-shi 	是	c=5 d=3.27662 t=209
-shi fou 	是否	c=1 d=1 t=163
-shi jian 	時間	c=1 d=0.909373 t=209
-shi zai 	是在	c=1 d=1 t=189
-shu ru fa 	輸入法	c=2 d=1.22803 t=209
-shu xing 	屬性	c=1 d=1 t=181
-sou suo 	搜索	c=1 d=1 t=192
-su zhou 	蘇州	c=1 d=0.806541 t=209
-ta men 	他們	c=1 d=0.798516 t=209
-te ding 	特定	c=3 d=1.76066 t=209
-tian jia 	添加	c=2 d=1.32707 t=209
-tian lei 	田磊	c=1 d=1 t=162
-tong zhi 	通知	c=2 d=1.70482 t=209
-wai hu 	外呼	c=1 d=0.900325 t=209
-wai hu 	外戶	c=2 d=1.71456 t=209
-wang ke qin 	王克欽	c=1 d=1 t=129
-wen ti 	問題	c=1 d=0.99005 t=209
-wo 	我	c=1 d=0.936672 t=209
-wo de 	我的	c=1 d=0.794534 t=209
-wo gai 	我改	c=1 d=0.913931 t=209
-wo gai 	我該	c=1 d=0.909373 t=209
-wo hen hao de 	我很好的	c=1 d=0.826959 t=209
-wo tian jia 	我添加	c=1 d=0.852144 t=209
-wo xian zai 	我現在	c=1 d=1 t=174
-wo yao 	我要	c=1 d=0.878095 t=209
-xia 	下	c=0 d=0.127292 t=209
-xian 	先	c=1 d=1 t=150
-xian shao 	鮮少	c=0 d=0.1 t=148
-xian shao deng xia 	鮮少燈下	c=1 d=1 t=149
-xian zai 	現在	c=0 d=0.1 t=173
-xiang 	向	c=1 d=1 t=118
-xiao feng 	小峯	c=1 d=1 t=122
-xie 	些	c=2 d=1.74334 t=209
-xin de 	新的	c=1 d=1 t=159
-xu ni 	虛擬	c=5 d=4.24362 t=209
-yi 	一	c=0 d=0.0980199 t=209
-yi 	翼	c=1 d=1 t=209
-yi dong 	移動	c=1 d=1 t=120
-yi fang kuo hao 	一方括號	c=1 d=0.985112 t=209
-yi ge 	一個	c=1 d=0.980199 t=209
-yi jing 	已經	c=1 d=0.985112 t=209
-yi zhi 	一直	c=1 d=0.860708 t=209
-ying gai 	應該	c=3 d=2.60283 t=209
-ying yong 	應用	c=2 d=1.17793 t=209
-ying yong cheng xu 	應用程序	c=1 d=1 t=104
-you 	右	c=3 d=2.46779 t=208
-you 	有	c=1 d=1 t=171
-yue 	月	c=1 d=1 t=201
-yun 	雲	c=1 d=1 t=165
-yun wei 	運維	c=1 d=1 t=195
-za 	咋	c=1 d=1 t=191
-zai 	再	c=1 d=1 t=138
-zai 	在	c=2 d=1.12902 t=209
-zen me 	怎麼	c=2 d=1.99501 t=115
-zhang 	張	c=1 d=0.995012 t=209
-zhe ge 	這個	c=7 d=5.33532 t=209
-zhi chi 	支持	c=1 d=1 t=164
-zhi hou 	之後	c=1 d=0.822835 t=209
-zhong 	中	c=2 d=1.16573 t=209
-zhong jian 	中間	c=1 d=1 t=145
-zhong wen 	中文	c=1 d=0.960789 t=209
-zhu chi ren 	主持人	c=5 d=4.26488 t=209
-zi duan 	字段	c=1 d=1 t=167
-zui 	最	c=0 d=0.199501 t=206
-zui di xia 	最地下	c=1 d=1 t=206
-zui di xia 	最底下	c=1 d=1 t=207
-zuo you 	左右	c=1 d=0.955997 t=209
+a 	啊	c=1 d=1 t=329
+an zhuang 	安裝	c=1 d=0.771052 t=550
+ba 	吧	c=3 d=1.50207 t=550
+ba 	把	c=2 d=1.73345 t=453
+bang 	幫	c=1 d=0.63297 t=550
+bang fa xia 	幫發下	c=1 d=0.67368 t=550
+bang huan xia 	幫換下	c=1 d=1 t=305
+bang mang 	幫忙	c=1 d=0.65377 t=550
+bao 	包	c=3 d=2.88437 t=326
+bei 	被	c=1 d=1 t=408
+bie 	別	c=0 d=0.1 t=388
+bie gai le 	別改了	c=1 d=1 t=389
+bu dao 	不到	c=1 d=0.923116 t=550
+bu dui 	不對	c=1 d=1 t=328
+bu guo 	不過	c=2 d=1.90032 t=500
+bu hui 	不會	c=1 d=1 t=437
+bu qing chu 	不清楚	c=0 d=0.0869358 t=550
+bu shi 	不是	c=1 d=1 t=350
+bu shu 	部署	c=0 d=0.1 t=522
+bu shu le 	部署了	c=2 d=1.89583 t=545
+bu yi yang 	不一樣	c=1 d=1 t=235
+cao zuo 	操作	c=1 d=1 t=239
+ce shi 	測試	c=1 d=0.922671 t=550
+ce shi ge 	測試個	c=1 d=0.70822 t=550
+ce shi xia 	測試下	c=5 d=3.88989 t=550
+cha bu dao 	查不到	c=1 d=0.97531 t=550
+cha xia 	查下	c=1 d=1 t=433
+cheng xu 	程序	c=1 d=0.612626 t=550
+chong xin 	重新	c=9 d=3.37593 t=550
+chu bao 	出包	c=4 d=2.85884 t=542
+chu ge 	出個	c=1 d=1 t=319
+chu xian 	出現	c=1 d=1 t=537
+chuan 	串	c=0 d=0.066034 t=550
+chuan guo lai 	傳過來	c=1 d=0.860708 t=550
+chuang kou 	窗口	c=1 d=0.631284 t=550
+cong 	從	c=0 d=0.1 t=210
+cong ke hu duan 	從客戶端	c=1 d=1 t=211
+da 	打	c=0 d=0.0826959 t=550
+da kai 	打開	c=2 d=1.5886 t=502
+da ri zhi 	打日誌	c=1 d=0.831104 t=550
+dai 	待	c=0 d=0.1 t=465
+dai dong 	戴東	c=2 d=1.65377 t=526
+dai fu xian 	待復現	c=1 d=1 t=466
+dai ma 	代碼	c=1 d=1 t=375
+dan shi 	但是	c=1 d=0.847894 t=550
+dao chu 	導出	c=1 d=1 t=550
+de 	的	c=29 d=10.3812 t=550
+deng 	等	c=1 d=0.960708 t=542
+deng chu bao 	等出包	c=1 d=1 t=543
+deng dai 	等待	c=1 d=1 t=535
+deng xia 	燈下	c=0 d=0.148166 t=550
+di xia 	地下	c=0 d=0.0980199 t=550
+di xia 	底下	c=0 d=0.0985112 t=550
+dian hua 	電話	c=4 d=1.70601 t=550
+diao 	掉	c=0 d=0.0657047 t=550
+diao qi 	吊起	c=0 d=0.066034 t=550
+diao qi chuan 	吊起串	c=5 d=2.34751 t=550
+diao qi chuan 	掉氣喘	c=1 d=0.66034 t=550
+dou 	都	c=1 d=1 t=330
+dou you 	都有	c=1 d=1 t=228
+duo xie 	多謝	c=2 d=1.4536 t=550
+en 	恩	c=8 d=2.83938 t=550
+fa gei 	發給	c=1 d=1 t=269
+fa qi 	發起	c=1 d=1 t=212
+fa song 	發送	c=1 d=1 t=278
+fa xia 	發下	c=5 d=1.17792 t=550
+fan ye 	翻頁	c=3 d=1.99005 t=550
+fang kuo hao 	方括號	c=1 d=1.09303 t=550
+fen zhi 	分支	c=3 d=2.61968 t=488
+fu wu qi 	服務器	c=6 d=4.11826 t=544
+fu xian 	復現	c=1 d=1.07153 t=532
+gai cheng 	改成	c=1 d=1 t=465
+gai le 	改了	c=1 d=1.05406 t=511
+gai wei 	改爲	c=0 d=0.1 t=540
+gai xia 	改下	c=1 d=1 t=393
+gang 	剛	c=1 d=1 t=232
+ge 	個	c=1 d=0.845387 t=550
+gei 	給	c=1 d=1 t=363
+gen 	跟	c=1 d=1 t=367
+gou tong 	溝通	c=1 d=1 t=527
+gu ji 	估計	c=1 d=0.960789 t=550
+gua duan 	掛斷	c=1 d=1 t=214
+guan bi 	關閉	c=1 d=0.955997 t=550
+guang 	光	c=1 d=1 t=242
+guo jiang 	郭江	c=1 d=1 t=221
+hai 	還	c=2 d=1.61484 t=550
+hai bu qing chu 	還不清楚	c=2 d=1.75621 t=550
+hai mei you 	還沒有	c=2 d=1.31037 t=491
+hai shi 	還是	c=3 d=2.37581 t=333
+hao 	好	c=1 d=0.690734 t=550
+hao de 	好的	c=1 d=0.782705 t=550
+hao xiang 	好像	c=2 d=0.852144 t=550
+he 	和	c=1 d=1 t=525
+he he he 	呵呵呵	c=1 d=0.790571 t=550
+hen chang 	很長	c=1 d=0.913931 t=550
+hen hao de 	很好的	c=0 d=0.0822835 t=550
+hou 	後	c=2 d=1.54064 t=528
+hou xu 	後續	c=1 d=1 t=536
+hua le 	花了	c=1 d=0.946485 t=550
+hua wen 	華文	c=1 d=1 t=469
+huan hao 	換好	c=1 d=0.97531 t=550
+huan jing 	環境	c=1 d=0.951229 t=550
+huan shang qu 	換上去	c=1 d=1 t=332
+huan xia 	換下	c=0 d=0.1 t=304
+hui yi 	會議	c=7 d=3.46761 t=550
+ji xu 	繼續	c=1 d=1 t=518
+jia ru 	加入	c=2 d=1.71337 t=550
+jian ge 	間隔	c=1 d=0.729789 t=550
+jian kai 	見開	c=2 d=1.18831 t=550
+jian pan 	鍵盤	c=3 d=1.8197 t=550
+jiang 	將	c=1 d=0.628135 t=550
+jie jue 	解決	c=0 d=0.1 t=541
+jin yong 	禁用	c=1 d=0.597501 t=550
+jing yin 	靜音	c=11 d=3.76663 t=550
+jiu 	就	c=2 d=0.839457 t=550
+jiu shi 	就是	c=1 d=0.946485 t=550
+jiu zhe ge 	就這個	c=1 d=1 t=378
+jiu zhi dao le 	就知道了	c=1 d=1 t=376
+kai shi 	開始	c=2 d=0.826959 t=550
+kan 	看	c=2 d=1.09984 t=550
+kan cuo 	看錯	c=1 d=1 t=210
+kan xia 	看下	c=1 d=0.787289 t=449
+ke 	克	c=1 d=0.650509 t=550
+ke hu 	客戶	c=1 d=1 t=368
+ke hu duan 	客戶端	c=4 d=2.89385 t=369
+ke jiang 	可講	c=1 d=1 t=401
+ke qin 	克欽	c=1 d=1 t=217
+ke ting 	可聽	c=1 d=1 t=400
+ke yi 	可以	c=4 d=2.79746 t=550
+ken ding 	肯定	c=2 d=1.89583 t=498
+lai le 	來了	c=1 d=0.802519 t=550
+lai miao 	來秒	c=1 d=0.737123 t=550
+lao de 	老的	c=1 d=1 t=420
+le 	了	c=5 d=2.25326 t=550
+lei xing 	類型	c=1 d=1 t=359
+lian xi 	聯席	c=2 d=1.97045 t=299
+lian xi 	聯繫	c=0 d=0.1 t=224
+lian xi zhu chi ren 	聯繫主持人	c=1 d=1 t=225
+liang ci 	兩次	c=1 d=0.722527 t=550
+liu 	劉	c=0 d=0.1 t=409
+liu ren 	劉仁	c=2 d=0.891366 t=550
+liu tong qing 	劉同慶	c=2 d=1.93707 t=423
+luo ji 	邏輯	c=2 d=1.47001 t=448
+ma 	嗎	c=2 d=1.7281 t=550
+ma 	馬	c=1 d=1 t=468
+mao hao 	冒號	c=1 d=1 t=470
+me 	麼	c=3 d=0.83527 t=550
+mei de 	沒得	c=1 d=0.687289 t=550
+mei guan xi 	沒關係	c=1 d=1 t=370
+mei you 	沒有	c=12 d=4.66118 t=550
+miao zhong 	秒鐘	c=1 d=0.951229 t=550
+mo ren 	默認	c=1 d=1 t=395
+mo shi 	模式	c=2 d=2.02654 t=286
+na 	那	c=1 d=1 t=460
+na wo 	那我	c=1 d=0.941765 t=550
+ni 	你	c=5 d=2.04719 t=550
+ni bang 	你幫	c=1 d=0.697676 t=550
+ni hao ma 	你好嗎	c=5 d=3.49826 t=550
+ni zhe ge 	你這個	c=1 d=1 t=325
+pei zhi 	配置	c=1 d=0.873716 t=550
+qi chuan 	氣喘	c=0 d=0.0657047 t=550
+qian 	前	c=1 d=1 t=503
+qie huan 	切換	c=0 d=0.0839457 t=550
+qie huan shu ru fa 	切換輸入法	c=1 d=0.843665 t=550
+qing qing 	輕輕	c=1 d=1 t=266
+qing qiu 	請求	c=2 d=1.91393 t=285
+quan ti 	全體	c=3 d=0.897476 t=550
+rang 	讓	c=1 d=1 t=425
+ri 	日	c=1 d=0.965605 t=550
+ri zhi 	日誌	c=6 d=2.77124 t=550
+ru hui 	入會	c=3 d=0.970446 t=550
+shang 	上	c=1 d=0.733447 t=550
+shang ci 	上次	c=1 d=0.970446 t=550
+shang mian 	上面	c=1 d=1 t=411
+shang xian 	上線	c=6 d=2.71596 t=550
+shao 	少	c=0 d=0.0744532 t=550
+shao deng 	稍等	c=0 d=0.0748264 t=550
+shao deng xia 	少燈下	c=1 d=0.748264 t=550
+shao deng xia 	稍等下	c=2 d=0.752014 t=550
+shen me 	什麼	c=1 d=1 t=229
+shi 	是	c=7 d=3.27662 t=550
+shi fou 	是否	c=1 d=0.794534 t=550
+shi jian 	時間	c=1 d=0.909373 t=550
+shi xia 	試下	c=1 d=1 t=324
+shi zai 	是在	c=1 d=0.904837 t=550
+shou dao 	收到	c=3 d=2.74821 t=282
+shu ju 	數據	c=1 d=1 t=458
+shu ru fa 	輸入法	c=2 d=1.22803 t=550
+shu xing 	屬性	c=1 d=0.869358 t=550
+shuo le 	說了	c=1 d=1 t=424
+shuo ming 	說明	c=1 d=1 t=464
+sou suo 	搜索	c=1 d=0.918512 t=550
+su zhou 	蘇州	c=1 d=0.806541 t=550
+suan le 	算了	c=1 d=1 t=386
+suo you 	所有	c=2 d=1.44933 t=397
+ta men 	他們	c=1 d=0.798516 t=550
+tao 	桃	c=1 d=1 t=483
+tao qin 	桃琴	c=1 d=1 t=222
+te ding 	特定	c=3 d=1.76066 t=550
+ti jiao 	提交	c=1 d=1.09277 t=489
+ti jiao le 	提交了	c=1 d=1 t=475
+tian jia 	添加	c=4 d=1.32707 t=550
+tian lei 	田磊	c=2 d=0.790571 t=550
+tie xia 	貼下	c=2 d=1.92868 t=455
+tong qing 	同慶	c=0 d=0.1 t=409
+tong zhi 	通知	c=10 d=3.43818 t=550
+wai hu 	外呼	c=1 d=0.900325 t=550
+wai hu 	外戶	c=3 d=1.71456 t=550
+wang 	王	c=2 d=1.6942 t=289
+wang ke qin 	王克欽	c=1 d=0.67032 t=550
+wei 	爲	c=1 d=1 t=286
+wen ti 	問題	c=4 d=2.09856 t=550
+wen xia 	問下	c=2 d=1.24414 t=505
+wo 	我	c=7 d=3.74228 t=550
+wo de 	我的	c=1 d=0.794534 t=550
+wo gai 	我改	c=1 d=0.913931 t=550
+wo gai 	我該	c=1 d=0.909373 t=550
+wo gei 	我給	c=1 d=1 t=422
+wo hen hao de 	我很好的	c=1 d=0.826959 t=550
+wo tian jia 	我添加	c=2 d=0.852144 t=550
+wo xian 	我先	c=0 d=0.1 t=449
+wo xian kan xia 	我先看下	c=1 d=1 t=450
+wo xian zai 	我現在	c=1 d=0.839457 t=550
+wo yao 	我要	c=1 d=0.878095 t=550
+wu fa 	無法	c=1 d=1 t=531
+xia 	下	c=2 d=1.53111 t=550
+xian 	先	c=3 d=1.49405 t=550
+xian gai wei 	先改爲	c=1 d=1 t=541
+xian shao 	鮮少	c=0 d=0.0737123 t=550
+xian shao deng xia 	鮮少燈下	c=1 d=0.740818 t=550
+xian zai 	現在	c=4 d=1.65199 t=550
+xiang 	向	c=1 d=0.634448 t=550
+xiao feng 	小峯	c=1 d=0.647265 t=550
+xiao xi 	消息	c=1 d=1 t=347
+xie 	些	c=2 d=1.74334 t=550
+xin de 	新的	c=1 d=0.778801 t=550
+xin ling 	信令	c=1 d=1 t=380
+xin ling 	心靈	c=1 d=1 t=379
+xiu fu 	修復	c=2 d=1.75957 t=457
+xiu gai 	修改	c=2 d=1.99501 t=292
+xu ni 	虛擬	c=6 d=4.24362 t=550
+xu qiu 	需求	c=1 d=1 t=230
+xu yao 	需要	c=2 d=1.71534 t=415
+yan zheng 	驗證	c=4 d=3.34068 t=549
+ye 	也	c=2 d=1.72591 t=495
+ye hui 	也會	c=1 d=1 t=303
+ye tie xia 	也貼下	c=1 d=1 t=456
+ye wu 	業務	c=2 d=1.90032 t=364
+yi 	一	c=0 d=0.0980199 t=550
+yi 	已	c=0 d=0.1 t=541
+yi 	翼	c=1 d=1 t=550
+yi dong 	移動	c=1 d=0.640824 t=550
+yi fang kuo hao 	一方括號	c=1 d=0.985112 t=550
+yi ge 	一個	c=1 d=0.980199 t=550
+yi jie jue 	已解決	c=1 d=1 t=542
+yi jing 	已經	c=2 d=0.985112 t=550
+yi xie 	一些	c=1 d=1 t=313
+yi zhi 	一直	c=1 d=0.860708 t=550
+yin pin 	音頻	c=1 d=1 t=399
+ying gai 	應該	c=5 d=2.60283 t=550
+ying yong 	應用	c=2 d=1.17793 t=550
+ying yong cheng xu 	應用程序	c=1 d=0.591555 t=550
+yong hu 	用戶	c=9 d=5.66802 t=455
+you 	又	c=2 d=1.33287 t=480
+you 	右	c=5 d=2.45548 t=550
+you 	有	c=2 d=1.01086 t=550
+you wen ti 	有問題	c=1 d=1 t=419
+you zhe ge 	有這個	c=1 d=1 t=438
+yue 	月	c=1 d=0.960789 t=550
+yun 	雲	c=2 d=0.802519 t=550
+yun wei 	運維	c=2 d=0.932394 t=550
+za 	咋	c=1 d=0.913931 t=550
+zai 	再	c=6 d=4.11239 t=550
+zai 	在	c=5 d=2.21406 t=550
+zai ce shi xia 	再測試下	c=1 d=1 t=321
+zao shang 	早上	c=1 d=1 t=334
+zen me 	怎麼	c=2 d=1.24689 t=550
+zhang 	張	c=1 d=0.995012 t=550
+zhe bian 	這邊	c=1 d=1 t=392
+zhe ge 	這個	c=13 d=5.33532 t=550
+zhe shi hou 	這時候	c=1 d=1 t=268
+zhi chi 	支持	c=1 d=0.798516 t=550
+zhi dao le 	知道了	c=0 d=0.1 t=375
+zhi hou 	之後	c=1 d=0.822835 t=550
+zhong 	中	c=2 d=1.16573 t=550
+zhong jian 	中間	c=1 d=0.726149 t=550
+zhong wen 	中文	c=1 d=0.960789 t=550
+zhu chi ren 	主持人	c=8 d=4.26488 t=550
+zhuang tai 	狀態	c=7 d=3.17791 t=540
+zi duan 	字段	c=1 d=0.810584 t=550
+zou lang 	走廊	c=2 d=2.01693 t=286
+zou lang mo shi 	走廊模式	c=1 d=1 t=287
+zui 	最	c=0 d=0.196531 t=550
+zui di xia 	最地下	c=1 d=0.985112 t=550
+zui di xia 	最底下	c=1 d=0.99005 t=550
+zuo you 	左右	c=1 d=0.955997 t=550
